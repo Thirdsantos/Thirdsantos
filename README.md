@@ -41,18 +41,21 @@
 </td>
 <td>
 
+<!-- Top spacing to align with ASCII height -->
+<br><br><br><br><br><br><br><br><br><br>
+
 <h3>Alfredo Santos</h3>
 
-<b>OS:</b> Windows 10 
+<b>OS:</b> Windows 10  
 <b>Uptime:</b> 21 years, 6 months  
-<b>Host:</b> STI College Caloocan 
+<b>Host:</b> STI College Caloocan  
 <b>Kernel:</b> BS Computer Engineering • 3rd Year  
 <b>IDE:</b> VS Code, Jupyter, PyCharm  
 
 ---
 
 <b>Technologies.Programming:</b><br>
-Python, Java
+Python, Java  
 
 <b>Technologies.IoT:</b><br>
 ESP32, Firebase, WebSockets  
@@ -66,16 +69,16 @@ Flask
 ---
 
 <b>Interests.Technical:</b><br>
-Smart Systems, Machine Learning, IoT, Data Engineering
+Smart Systems, Machine Learning, IoT, Data Engineering  
 
 <b>Interests.Libraries:</b><br>
-Pandas, Plotly, Numpy 
+Pandas, Plotly, Numpy  
 
 ---
 
 <b>Contact:</b><br>
-📧 thirdsantos666@gmai.com 
-🌐 Portfolio: https://www.datacamp.com/portfolio/thirdsantos666
+📧 <a href="mailto:thirdsantos666@gmail.com">thirdsantos666@gmail.com</a><br>
+🌐 Portfolio: [DataCamp Portfolio](https://www.datacamp.com/portfolio/thirdsantos666)  
 
 ---
 
