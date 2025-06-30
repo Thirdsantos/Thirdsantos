@@ -1,4 +1,10 @@
-```
+<table>
+  <tr>
+    <td>
+
+<!-- LEFT SIDE: ASCII ART -->
+
+<pre>
 .............................................................. ...    
 ...............................              .......................  
 ............................ .::--==++++++=-.   ......................
@@ -45,38 +51,54 @@
 =-=====---------===---------------==----------------------------------
 =-====+=--------===--------------==--------------------------------=--
 =-===+++--------===---------==-==+=--==---------------------------===+
-```
+</pre>
 
-**Alfredo Santos**
+</td>
+<td>
 
----
+<!-- RIGHT SIDE: INFO -->
 
-**OS:** Windows 11  
-**Uptime:** 21 years, 6 months  
-**Host:** Rizal Technological University  
-**Kernel:** BS Computer Engineering • 3rd Year  
-**IDE:** VS Code, Jupyter, PyCharm
+<h3>Alfredo Santos</h3>
 
----
-
-**Technologies.Programming:** Python, Java, JavaScript  
-**Technologies.IoT:** ESP32, Firebase, WebSockets  
-**Technologies.Cloud:** Render, Firebase, Oracle Cloud  
-**Technologies.Platforms:** Flask, Spring Boot, Flutter
+<b>OS:</b> Windows 11  
+<b>Uptime:</b> 21 years, 6 months  
+<b>Host:</b> Rizal Technological University  
+<b>Kernel:</b> BS Computer Engineering • 3rd Year  
+<b>IDE:</b> VS Code, Jupyter, PyCharm  
 
 ---
 
-**Interests.Technical:** Smart Systems, Machine Learning, IoT  
-**Interests.Libraries:** Pandas, Scikit-learn, TensorFlow, Plotly  
+<b>Technologies.Programming:</b><br>
+Python, Java, JavaScript  
+
+<b>Technologies.IoT:</b><br>
+ESP32, Firebase, WebSockets  
+
+<b>Technologies.Cloud:</b><br>
+Render, Firebase, Oracle Cloud  
+
+<b>Technologies.Platforms:</b><br>
+Flask, Spring Boot, Flutter  
 
 ---
 
-**Contact:**  
-📧 Email: `alfredo.dev.work@gmail.com`  
-🌐 Portfolio: Coming Soon
+<b>Interests.Technical:</b><br>
+Smart Systems, Machine Learning, IoT  
+
+<b>Interests.Libraries:</b><br>
+Pandas, Scikit-learn, TensorFlow, Plotly  
 
 ---
 
-**GitHub Stats:**  
-📦 Repos: 12 | 📝 Commits: 310 | ⭐ Stars: 5  
-👥 Followers: 25
+<b>Contact:</b><br>
+📧 alfredo.dev.work@gmail.com  
+🌐 Portfolio: Coming Soon  
+
+---
+
+<b>GitHub Stats:</b><br>
+📦 Repos: 12 | 📝 Commits: 310 | ⭐ Stars: 5 | 👥 Followers: 25  
+
+</td>
+  </tr>
+</table>
