@@ -51,7 +51,7 @@
 **Technologies.Programming:** Python, Java  
 **Technologies.IoT:** ESP32, Firebase, WebSockets  
 **Technologies.Cloud:** Render, Firebase, Oracle Cloud  
-**Technologies.Platforms:** Flask  
+**Technologies.Platforms:** Flask, Spring Boot
 
 **Interests.Technical:** Smart Systems, Machine Learning, IoT, Data Engineering  
 **Interests.Libraries:** Pandas, Plotly, Numpy  
@@ -61,7 +61,7 @@
 🌐 [Portfolio](https://www.datacamp.com/portfolio/thirdsantos666)  
 
 **GitHub Stats:**  
-📦 Repos: 12 | 📝 Commits: 310 | ⭐ Stars: 5 | 👥 Followers: 25  
+📦 Repos: 12 | 📝 Commits: 310 | ⭐ Stars: 1 | 👥 Followers: 4
 
 </td>
   </tr>
