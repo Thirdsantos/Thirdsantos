@@ -39,50 +39,28 @@
 </pre>
 
 </td>
-<td>
+<td style="vertical-align: top; padding-left: 20px;">
 
-<!-- Top spacing to align with ASCII height -->
-<br><br><br><br><br><br><br><br><br><br>
+**Alfredo Santos**  
+**OS:** Windows 10  
+**Uptime:** 21 years, 6 months  
+**Host:** STI College Caloocan  
+**Kernel:** BS Computer Engineering • 3rd Year  
+**IDE:** VS Code, Jupyter, PyCharm  
 
-<h3>Alfredo Santos</h3>
+**Technologies.Programming:** Python, Java  
+**Technologies.IoT:** ESP32, Firebase, WebSockets  
+**Technologies.Cloud:** Render, Firebase, Oracle Cloud  
+**Technologies.Platforms:** Flask  
 
-<b>OS:</b> Windows 10  
-<b>Uptime:</b> 21 years, 6 months  
-<b>Host:</b> STI College Caloocan  
-<b>Kernel:</b> BS Computer Engineering • 3rd Year  
-<b>IDE:</b> VS Code, Jupyter, PyCharm  
+**Interests.Technical:** Smart Systems, Machine Learning, IoT, Data Engineering  
+**Interests.Libraries:** Pandas, Plotly, Numpy  
 
----
+**Contact:**  
+📧 [thirdsantos666@gmail.com](mailto:thirdsantos666@gmail.com)  
+🌐 [Portfolio](https://www.datacamp.com/portfolio/thirdsantos666)  
 
-<b>Technologies.Programming:</b><br>
-Python, Java  
-
-<b>Technologies.IoT:</b><br>
-ESP32, Firebase, WebSockets  
-
-<b>Technologies.Cloud:</b><br>
-Render, Firebase, Oracle Cloud  
-
-<b>Technologies.Platforms:</b><br>
-Flask  
-
----
-
-<b>Interests.Technical:</b><br>
-Smart Systems, Machine Learning, IoT, Data Engineering  
-
-<b>Interests.Libraries:</b><br>
-Pandas, Plotly, Numpy  
-
----
-
-<b>Contact:</b><br>
-📧 <a href="mailto:thirdsantos666@gmail.com">thirdsantos666@gmail.com</a><br>
-🌐 Portfolio: [DataCamp Portfolio](https://www.datacamp.com/portfolio/thirdsantos666)  
-
----
-
-<b>GitHub Stats:</b><br>
+**GitHub Stats:**  
 📦 Repos: 12 | 📝 Commits: 310 | ⭐ Stars: 5 | 👥 Followers: 25  
 
 </td>
