@@ -1,3 +1,7 @@
+<h3 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=57A6FF&width=435&lines=Data+Engineer;Backend+Developer;Python+Developer;IoT+System+Builder" alt="Typing SVG" />
+</h3>
+
 <table>
   <tr>
     <td>
@@ -42,26 +46,46 @@
 <td style="vertical-align: top; padding-left: 20px;">
 
 **Alfredo Santos**  
+**Role:** Data Engineer & Backend Developer  
+
 **OS:** Windows 10  
-**Uptime:** 21 years, 6 months  
-**Host:** STI College Caloocan  
-**Kernel:** BS Computer Engineering • 3rd Year  
-**IDE:** VS Code, Jupyter, PyCharm  
+**School:** STI College Caloocan  
+**Program:** BS Computer Engineering – 3rd Year  
 
-**Technologies.Programming:** Python, Java  
-**Technologies.IoT:** ESP32, Firebase, WebSockets  
-**Technologies.Cloud:** Render, Firebase, Oracle Cloud  
-**Technologies.Platforms:** Flask, Spring Boot
+**Languages:**  
+Python, Java  
 
-**Interests.Technical:** Smart Systems, Machine Learning, IoT, Data Engineering  
-**Interests.Libraries:** Pandas, Plotly, Numpy  
+**Frameworks:**  
+Flask  
+
+**Databases:**  
+SQL, MySQL, PostgreSQL, Firebase  
+
+**Libraries & Tools:**  
+Pandas, NumPy, Plotly  
+
+**Cloud & Hosting:**  
+Firebase, Render  
+
+**Focus Areas:**  
+- Data Collection & Processing  
+- Backend API Development  
+- IoT & Real-time Pipelines  
 
 **Contact:**  
-📧 [thirdsantos666@gmail.com](mailto:thirdsantos666@gmail.com)  
-🌐 [Portfolio](https://www.datacamp.com/portfolio/thirdsantos666)  
+thirdsantos666@gmail.com  
+https://www.datacamp.com/portfolio/thirdsantos666  
 
-**GitHub Stats:**  
-📦 Repos: 12 | 📝 Commits: 310 | ⭐ Stars: 1 | 👥 Followers: 4
+**Tech Stack & Tools:**<br>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-black?style=flat&logo=flask"/>
+<img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
 
 </td>
   </tr>
