@@ -1,6 +1,7 @@
-<h3 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=57A6FF&width=435&lines=Data+Engineer;Backend+Developer;Python+Developer;IoT+System+Builder" alt="Typing SVG" />
-</h3>
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&width=520&lines=Data+Engineer;Backend+Developer;Python+Developer;IoT+System+Builder" alt="Typing SVG" />
+</h2>
+
 
 <table>
   <tr>
@@ -73,8 +74,8 @@ Firebase, Render
 - IoT & Real-time Pipelines  
 
 **Contact:**  
-thirdsantos666@gmail.com  
-https://www.datacamp.com/portfolio/thirdsantos666  
+📧 [thirdsantos666@gmail.com](mailto:thirdsantos666@gmail.com)  
+🌐 [Portfolio](https://www.datacamp.com/portfolio/thirdsantos666) (WIP)
 
 **Tech Stack & Tools:**<br>
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
@@ -85,7 +86,14 @@ https://www.datacamp.com/portfolio/thirdsantos666
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/cURL-0061A8?style=flat&logo=curl&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+
 
 </td>
   </tr>
