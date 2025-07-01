@@ -1,12 +1,11 @@
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+    
 <h2 align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&width=520&lines=Data+Engineer;Backend+Developer;Python+Developer;IoT+System+Builder" alt="Typing SVG" />
 </h2>
 
-<table>
-  <tr>
-    <td>
-      <h3 align="center">🚀 Welcome to My Tech World</h3>
-      
 <pre>
 ................................            ......................    
 ...........................  ....::::-----:..   ..................... 
@@ -63,7 +62,7 @@ Flask
 SQL, MySQL, PostgreSQL, Firebase  
 
 **Libraries & Tools:**  
-Pandas, NumPy, Plotly  
+Pandas, NumPy, Matplotlib  
 
 **Cloud & Hosting:**  
 Firebase, Render  
@@ -74,8 +73,8 @@ Firebase, Render
 - IoT & Real-time Pipelines  
 
 **Contact:**  
-📧 [thirdsantos666@gmail.com](mailto:thirdsantos666@gmail.com)  
-🌐 [Portfolio](https://www.datacamp.com/portfolio/thirdsantos666) (WIP)
+thirdsantos666@gmail.com  
+[Portfolio](https://www.datacamp.com/portfolio/thirdsantos666)
 
 **Tech Stack & Tools:**<br>
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
