@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&width=520&lines=Data+Engineer;Backend+Developer;Python+Developer;IoT+System+Builder" alt="Typing SVG" />
 </h2>
 
-
 <table>
   <tr>
     <td>
-
+      <h3 align="center">🚀 Welcome to My Tech World</h3>
+      
 <pre>
 ................................            ......................    
 ...........................  ....::::-----:..   ..................... 
@@ -93,7 +93,6 @@ Firebase, Render
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
 <img src="https://img.shields.io/badge/cURL-0061A8?style=flat&logo=curl&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
-
 
 </td>
   </tr>
