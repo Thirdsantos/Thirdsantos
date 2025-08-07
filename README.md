@@ -56,7 +56,7 @@
 Python, Java  
 
 **Frameworks:**  
-Flask, FastAPI  
+Flask, FastAPI, Django
 
 **Databases:**  
 SQL, MySQL, PostgreSQL, Firebase, SupaBase  
@@ -65,7 +65,7 @@ SQL, MySQL, PostgreSQL, Firebase, SupaBase
 Pandas, NumPy, Matplotlib, pathlib, OpenCV, Pytest, VSCode, JupyterNotebook  
 
 **Cloud & Hosting:**  
-Firebase, Render  
+Firebase, Render, Railway, Azure, AWS
 
 **Focus Areas:**  
 - Data Collection & Processing  
