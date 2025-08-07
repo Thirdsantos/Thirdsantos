@@ -50,19 +50,19 @@
 
 **OS:** Windows 10  
 **School:** STI College Caloocan  
-**Program:** BS Computer Engineering – 3rd Year  
+**Program:** BS Computer Engineering
 
 **Languages:**  
 Python, Java  
 
 **Frameworks:**  
-Flask  
+Flask, FastAPI  
 
 **Databases:**  
-SQL, MySQL, PostgreSQL, Firebase  
+SQL, MySQL, PostgreSQL, Firebase, SupaBase  
 
 **Libraries & Tools:**  
-Pandas, NumPy, Matplotlib  
+Pandas, NumPy, Matplotlib, pathlib, OpenCV, Pytest, VSCode, JupyterNotebook  
 
 **Cloud & Hosting:**  
 Firebase, Render  
