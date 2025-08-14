@@ -2,19 +2,7 @@
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
     
-<h2 align="left" style="line-height:1.2;">
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=1800&pause=800&color=00FF99&repeat=false&width=520&lines=Data+Engineer"
-    alt="Data Engineer typing"
-  />
-  <br/>
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&width=520&lines=Backend+Developer;Python+Developer;IoT+System+Builder"
-    alt="Other roles typing"
-  />
-</h2>
+<h1 align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&width=520&lines=Data+Engineer;Backend+Developer;Python+Developer;IoT+System+Builder" alt="Typing SVG" /> </h1>
 
 
 <pre>
