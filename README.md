@@ -70,10 +70,6 @@ Firebase, Render, Railway, CloudFlare
 - Backend API Development  
 - IoT & Real-time Pipelines  
 
-**Contact:**  
-thirdsantos666@gmail.com  
-[Portfolio](https://www.datacamp.com/portfolio/thirdsantos666)
-
 **Tech Stack & Tools:**<br>
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-black?style=flat&logo=flask"/>
