@@ -2,7 +2,7 @@
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
     
-<h1 align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&width=520&lines=Data+Engineer;Backend+Developer;Python+Developer;IoT+System+Builder" alt="Typing SVG" /> </h1>
+<h1 align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FF99&width=520&lines=Data+Engineer;Backend+Developer;Python+Developer;IoT+System+Builder" alt="Typing SVG" /> </h1>
 
 
 <pre>
