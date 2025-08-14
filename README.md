@@ -3,8 +3,9 @@
     <td style="vertical-align: top; padding-right: 20px;">
     
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&width=520&lines=Data+Engineer;Backend+Developer;Python+Developer;IoT+System+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&width=520&lines=%3Ctspan%20style%3D'font-size%3A34px%3Bcolor%3A%2300FF99'%3EData+Engineer%3C%2Ftspan%3E;Backend+Developer;Python+Developer;IoT+System+Builder" alt="Typing SVG" />
 </h2>
+
 
 <pre>
 ................................            ......................    
