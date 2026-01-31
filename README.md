@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">   
-<h1 align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FF99&width=520&lines=Aspiring+Software+Developer;Backend+Developer;Python+Developer;IoT+System+Builder" alt="Typing SVG" /> </h1>
+<h1 align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FF99&width=520&lines=Aspiring+AI+Developer;Backend+Developer;Python+Developer;IoT+System+Builder" alt="Typing SVG" /> </h1>
 
 
 <pre>
@@ -44,7 +44,7 @@
 <td style="vertical-align: top; padding-left: 20px;">
 
 **Alfredo Santos**  
-**Role:** Aspiring Data Engineer & Backend Developer  
+**Role:** Aspiring AI Engineer & Backend Developer  
 
 **OS:** Windows 10  
 **School:** STI College Caloocan  
@@ -54,7 +54,7 @@
 Python, Java  
 
 **Frameworks:**  
-Flask, FastAPI, Django
+Flask, FastAPI, Django, Springboot
 
 **Databases:**  
 SQL, MySQL, PostgreSQL, Firebase, SupaBase  
