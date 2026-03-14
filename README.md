@@ -1,7 +1,21 @@
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">   
-<h1 align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FF99&width=520&lines=Aspiring+AI+Developer;Backend+Developer;Python+Developer;IoT+System+Builder" alt="Typing SVG" /> </h1>
+
+<h1 align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FF99&width=520&lines=Aspiring+AI+Developer;Backend+Developer;Python+Developer;IoT+System+Builder" alt="Typing SVG" />
+</h1>
+
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=Thirdsantos&label=Profile%20Views&color=00ff99&style=flat" alt="profile views"/>
+
+<br><br>
+
+<!-- GITHUB STATS -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thirdsantos&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<!-- TOP LANGUAGES -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thirdsantos&layout=compact&theme=tokyonight&hide_border=true"/>
 
 
 <pre>
@@ -41,6 +55,7 @@
 </pre>
 
 </td>
+
 <td style="vertical-align: top; padding-left: 20px;">
 
 **Alfredo Santos**  
@@ -95,7 +110,6 @@ Firebase, Render, Railway, CloudFlare
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
 <img src="https://img.shields.io/badge/cURL-0061A8?style=flat&logo=curl&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
-
 
 </td>
   </tr>
