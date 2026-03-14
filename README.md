@@ -6,16 +6,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FF99&width=520&lines=Aspiring+AI+Developer;Backend+Developer;Python+Developer;IoT+System+Builder" alt="Typing SVG" />
 </h1>
 
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=Thirdsantos&label=Profile%20Views&color=00ff99&style=flat" alt="profile views"/>
-
-<br><br>
-
-<!-- GITHUB STATS -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thirdsantos&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<!-- TOP LANGUAGES -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thirdsantos&layout=compact&theme=tokyonight&hide_border=true"/>
 
 
 <pre>
@@ -120,6 +110,18 @@ Firebase, Render, Railway, CloudFlare
 
 ---
 
+
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=Thirdsantos&label=Profile%20Views&color=00ff99&style=flat" alt="profile views"/>
+
+<br><br>
+
+<!-- GITHUB STATS + TOP LANGUAGES SIDE BY SIDE -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thirdsantos&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thirdsantos&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 <!-- STREAK STATS -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thirdsantos&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -127,38 +129,18 @@ Firebase, Render, Railway, CloudFlare
 
 ---
 
-<!-- WAKATIME STATS -->
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Thirdsantos&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
-</p>
-
-> ⚙️ WakaTime tracks your real coding time per language. Install the [WakaTime plugin](https://wakatime.com/vs-code) in VSCode and connect your account to make this widget live.
-
----
-
-<!-- TROPHIES -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thirdsantos&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
-<!-- PINNED PROJECTS — replace REPO_NAME with your actual repo names -->
-<h3 align="center">🚀 Featured Projects</h3>
-<p align="center">
-  <a href="https://github.com/Thirdsantos/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thirdsantos&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+  <a href="https://linkedin.com/in/alfredosantosiii" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Thirdsantos/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thirdsantos&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+
+  <a href="mailto:alfredosantosiii.work@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-</p>
 
----
-
-<!-- SOCIAL BADGES -->
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-00FF99?style=flat&logo=vercel&logoColor=black"/></a>
+  <a href="https://portfolio.alfreds.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00FF99?style=flat&logo=vercel&logoColor=black"/>
+  </a>
 </p>
