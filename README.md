@@ -3,7 +3,7 @@
     <td style="vertical-align: top; padding-right: 20px;">   
 
 <h1 align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FF99&width=520&lines=Aspiring+AI+Developer;Backend+Developer;Python+Developer;IoT+System+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FF99&width=520&lines=AI+Developer;Backend+Developer;Python+Developer;IoT+System+Builder" alt="Typing SVG" />
 </h1>
 
 
@@ -52,9 +52,9 @@
 <td style="vertical-align: top; padding-left: 20px;">
 
 **Alfredo Santos**  
-**Role:** Aspiring AI Engineer & Backend Developer  
+**Role:** AI Engineer & Backend Developer  
 
-**OS:** Windows 10  
+**OS:** Windows 11 
 **School:** STI College Caloocan  
 **Program:** BS Computer Engineering
 
