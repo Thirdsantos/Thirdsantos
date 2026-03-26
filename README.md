@@ -54,8 +54,7 @@
 **Alfredo Santos**  
 **Role:** AI Engineer & Backend Developer  
 
-**OS:** Windows 11 
-**School:** STI College Caloocan  
+**OS:** Windows 11                   
 **Program:** BS Computer Engineering
 
 **Languages:**  
@@ -71,7 +70,7 @@ SQL, MySQL, PostgreSQL, Firebase, SupaBase
 Pandas, NumPy, Matplotlib, pathlib, OpenCV, Pytest, VSCode, JupyterNotebook  
 
 **Cloud & Hosting:**  
-Firebase, Render, Railway, CloudFlare
+ GCP, Azure, AWS, Firebase, Render, Railway, CloudFlare
 
 **Focus Areas:**  
 - Data Collection & Processing  
