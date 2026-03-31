@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=Thirdsantos&label=Profile%20Views&color=00ff99&style=flat" alt="profile views"/>
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">   
@@ -111,7 +112,7 @@ Pandas, NumPy, Matplotlib, pathlib, OpenCV, Pytest, VSCode, JupyterNotebook
 
 
 <!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=Thirdsantos&label=Profile%20Views&color=00ff99&style=flat" alt="profile views"/>
+
 
 <br><br>
 
